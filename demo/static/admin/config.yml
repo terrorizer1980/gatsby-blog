@@ -8,9 +8,9 @@ public_folder: assets
 collections:
   - name: blog
     label: Blog
-    folder: "demo/content/posts/{{slug}}"
+    folder: "demo/content/posts/"
     create: true
-    slug: "{{slug}}"
+    slug: "{{slug}}/index.md"
     
     fields:
       - { name: title, label: Title, widget: string }
