@@ -8,7 +8,7 @@ public_folder: assets
 collections:
   - name: blog
     label: Blog
-    folder: content/posts/
+    folder: demo/content/posts/
     create: true
     slug: "{{slug}}"
     
