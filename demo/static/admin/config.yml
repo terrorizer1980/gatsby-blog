@@ -1,6 +1,7 @@
 backend:
   name: github
   repo: akhil-naidu/gatsby-theme-nehalem
+  branch: 
 
 media_folder: static/assets
 public_folder: assets
