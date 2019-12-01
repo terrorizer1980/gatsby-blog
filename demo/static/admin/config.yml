@@ -10,11 +10,12 @@ collections:
     label: Blog
     folder: content/posts/
     create: true
-    slug: {{slug}}
+    slug: "{{slug}}"
+    
     fields:
       - { name: title, label: Title, widget: string }
       - { name: path, label: Path }
-      - { name: tags, label: Tags }
+      - { name: tags, label: Tags, widget: seclect, multiple: true}
       - { name: featuredImage, label: featuredImage, widget: image }
       - { name: exert, label: Exert, widget: string }
       - { name: created, label: Created, widget: date }
