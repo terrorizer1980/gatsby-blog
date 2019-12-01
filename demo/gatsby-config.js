@@ -7,3 +7,10 @@
 module.exports = {
   plugins: [`@nehalist/gatsby-theme-nehalem`],
 };
+
+{
+  resolve: `gatsby-plugin-netlify-cms`,
+  options: {
+    enableIdentityWidget: false,
+  }
+}
