@@ -13,7 +13,7 @@ collections:
     fields:
       - { name: title, label: Title, widget: string }
       - { name: path, label: Path }
-      - { name: tags, label: Tags, widget: array }
+      - { name: tags, label: Tags }
       - { name: date, label: Date, widget: date }
       - { name: featuredImage, label: featuredImage, widget: image }
       - { name: exert, label: Exert, widget: string }
