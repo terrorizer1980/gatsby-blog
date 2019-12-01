@@ -1,6 +1,6 @@
 ---
 title: test
-path: /test
+path: test
 tags: Theme
 featuredImage: /assets/1.png
 exert: test
