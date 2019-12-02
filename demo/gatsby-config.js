@@ -15,7 +15,7 @@ module.exports = {
       resolve: `@nehalist/gatsby-theme-nehalem`,
       options: { // optional theme options
         // location to our content
-        contentPath: `demo/content`,
+        contentPath: `content`,
         // the page manifest
         manifest: {
           name: `nehalem - A Gatsby theme`,
@@ -24,7 +24,7 @@ module.exports = {
           background_color: `#a4cbb8`,
           theme_color: `#a4cbb8`,
           display: `minimal-ui`,
-          icon: `${__dirname}/assets/nehalist-gatsby.png`
+          icon: `${__dirname}/assets/images/logo.png`
         },
         // if archive pages should be generated automatically
         loadDefaultPages: true,
