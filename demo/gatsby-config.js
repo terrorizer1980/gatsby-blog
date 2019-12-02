@@ -9,9 +9,6 @@
 
  */
 
-module.exports = {
-  plugins: [`@nehalist/gatsby-theme-nehalem`],
-};
 
 module.exports = {
   plugins: [
