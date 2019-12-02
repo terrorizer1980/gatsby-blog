@@ -24,4 +24,4 @@ Second, policy changes and passing of bills take way too long. That's a result o
 
 [More Info](https://www.moneycontrol.com/news/business/economy/5-trillion-economy-distant-dream-india-slips-to-7th-spot-in-global-gdp-ranking-4281691.html)
 
-<meta name="image" property="og:image" content="[assets/modi.jpg]">
+<meta name="image" property="og:image" content="[https://raw.githubusercontent.com/akhil-naidu/gatsby-theme-nehalem/master/demo/content/posts/blog/assets/modi.jpg]">
