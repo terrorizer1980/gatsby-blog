@@ -5,8 +5,8 @@ backend:
 publish_mode: editorial_workflow
 media_folder: "demo/content/posts/blog/assets"
       
-  - name: posts
-    label: Posts
+  - name: "blog"
+    label: "Blog"
     folder: "demo/content/posts/blog"
     create: true
     slug: "{{slug}}"
