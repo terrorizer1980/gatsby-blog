@@ -10,3 +10,7 @@
   color: #f0db4f
   icon: ./assets/images/javascript.svg
   featured: true
+- name: Getting Started
+  color: #f0db4f
+  icon: ./assets/images/javascript.svg
+  featured: true
