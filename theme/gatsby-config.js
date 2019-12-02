@@ -14,7 +14,7 @@ module.exports = (themeOptions) => {
   return {
     siteMetadata: {
       title: `Leewardslope`,
-      siteUrl: `https://akhilnaidu.netlify.com`,
+      siteUrl: `https://blog.leewardslope.com`,
       description: `Thoughts, Stories and Ideas for %TOPICS%`,
       topics: [
         `bloggers`,
