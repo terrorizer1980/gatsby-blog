@@ -24,7 +24,7 @@ module.exports = {
           background_color: `#a4cbb8`,
           theme_color: `#a4cbb8`,
           display: `minimal-ui`,
-          icon: `${__dirname}/assets/images/logo.png`
+          
         },
         // if archive pages should be generated automatically
         loadDefaultPages: true,
