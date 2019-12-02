@@ -1,5 +1,5 @@
 
- backend:
+backend:
   name: git-gateway
   repo: akhil-naidu/gatsby-theme-nehalem
 
