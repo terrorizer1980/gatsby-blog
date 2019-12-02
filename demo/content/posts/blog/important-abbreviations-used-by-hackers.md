@@ -7,8 +7,7 @@ image: /assets/abbreviations.jpg
 featuredImage: ./assets/abbreviations.jpg
 excerpt: >-
   Below are some frequently used abbreviations and acronyms that all hackers
-  should know about. The abbreviations we’re about to take a look at are used by
-  programmers
+  should know about. The abbreviations we’re about to take a look at are
 created: 2019-12-02T15:35:15.291Z
 updated: 2019-12-02T15:35:15.337Z
 ---
