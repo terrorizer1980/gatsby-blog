@@ -3,7 +3,7 @@ title: testblog
 path: /testblog
 tags:
   - Demo
-featuredImage: ./akhil.jpng
+featuredImage: ./akhil.jpg
 exert: exert
 created: 2019-12-02T07:07:09.343Z
 updated: 2019-12-02T07:07:09.386Z
