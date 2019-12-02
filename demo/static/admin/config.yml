@@ -15,7 +15,7 @@ collections:
     fields:
       - { name: title, label: Title, widget: string }
       - { name: path, label: Path }
-      - { name: tags, label: Tags, Widget: Select, multiple: true, options: ["Demo", "Theme", "Getting Started"], default: ["Demo"]}
+      - { name: tags, label: Tags, Widget: Select, options: ["Demo", "Theme", "Getting Started"]}
       - { name: image, label: Featured Image, widget: image }
       - { name: featuredImage, label: Image Location, widget: string }
       - { name: exert, label: Exert, widget: string }
