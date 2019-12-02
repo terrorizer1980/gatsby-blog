@@ -40,12 +40,12 @@ const SidebarContent: FunctionComponent = () => {
       <Bio textAlign={`justify`} avatarStyle={{float: `left`, marginRight: `10px`}}/>
 
       <DownloadButton
-        href={`https://nehalem.netlify.com/getting-started`}
+        href={`https://github.com/akhil-naidu/gatsby-theme-nehalem`}
         target={`_blank`}
         rel={`noopener`}
-        aria-label={`Get this theme`}
+        aria-label={`Check This Project`}
       >
-        Get this theme &#129321;
+        Check This Project &#129321;
       </DownloadButton>
 
     </StickySidebarContent>
