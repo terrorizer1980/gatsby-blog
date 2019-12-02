@@ -3,6 +3,7 @@ title: akhil
 path: /naidu
 tags:
   - Demo
+  - Theme
 image: /assets/ghost-logo.png
 featuredImage: ./assets/ghost-logo.png
 exert: exert
