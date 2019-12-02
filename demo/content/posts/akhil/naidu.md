@@ -1,5 +1,5 @@
 ---
-title: "Akhil"
+title: "not Akhil"
 path: "/lol"
 tags: ["Demo"]
 featuredImage: "./cover.jpg"
