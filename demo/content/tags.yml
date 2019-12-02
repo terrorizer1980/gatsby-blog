@@ -14,3 +14,12 @@
   color: #f0db4f
   icon: ./assets/images/javascript.svg
   featured: true
+- name: Thoughts
+  color: #f0db4f
+  icon: ./assets/images/logo.png
+  featured: true
+- name: The Internet
+  color: #f0db4f
+  icon: ./assets/images/logo.png
+  featured: true
+  
