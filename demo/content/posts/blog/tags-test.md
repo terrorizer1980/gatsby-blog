@@ -1,7 +1,7 @@
 ---
 title: Tags test
 path: /tags_test
-tags: Demo
+tags: ["Demo"]
 image: /assets/ghost-logo.png
 featuredImage: ./assets/ghost-logo.png
 exert: exert
