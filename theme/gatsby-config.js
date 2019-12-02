@@ -46,9 +46,8 @@ module.exports = (themeOptions) => {
       search: true,
       author: {
         name: `Akhil Naidu`,
-        description: `I'm <strong>Akhil</strong>, this is a Gatsby Project by 
-        <a href="https://nehalist.io" rel="noopener" target="_blank">nehalist</a>. If you like what you see feel free to give a 
-        <a href="https://github.com/nehalist/gatsby-theme-nehalem" rel="noopener" target="_blank">star on GitHub!</a>`,
+        description: `I'm <strong>Akhil</strong>, the guy behind 
+        <a href="https://blog.leewardslope.com" rel="noopener" target="_blank">leewardslope</a>. - a blog about software development,           technology and all that kind of geeky stuff.`,
         social: {
           facebook: ``,
           twitter: `https://twitter.com/_kanaidu`,
