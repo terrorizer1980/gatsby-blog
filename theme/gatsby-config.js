@@ -13,8 +13,8 @@ module.exports = (themeOptions) => {
 
   return {
     siteMetadata: {
-      title: `nehalem`,
-      siteUrl: `https://nehalem.netlify.com`,
+      title: `Leewardslope`,
+      siteUrl: `https://akhilnaidu.netlify.com`,
       description: `Thoughts, Stories and Ideas for %TOPICS%`,
       topics: [
         `bloggers`,
