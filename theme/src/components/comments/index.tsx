@@ -5,6 +5,9 @@ import React, {FunctionComponent} from "react";
  * quickly integrate comments (like commento, Disqus, ...).
  */
 
+<div id="commento"></div>
+<script src="https://cdn.commento.io/js/commento.js"></script>
+
 
 const Comments: FunctionComponent = () => <></>;
 
