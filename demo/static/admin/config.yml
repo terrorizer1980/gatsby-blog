@@ -3,7 +3,7 @@ backend:
   repo: akhil-naidu/gatsby-theme-nehalem
 
 media_folder: demo/content/posts/blog/assets
-public_folder: ./assets
+public_folder: assets
 
 collections:
   - name: blog
@@ -16,7 +16,8 @@ collections:
       - { name: title, label: Title, widget: string }
       - { name: path, label: Path }
       - { name: tags, label: Tags, Widget: list, default: ["Demo"]}
-      - { name: featuredImage, label: Featured Image, widget: image }
+      - { name: image, label: Featured Image, widget: image }
+      - { name: featuredImage, label: Image Location, widget: string }
       - { name: exert, label: Exert, widget: string }
       - { name: created, label: Created, widget: date }
       - { name: updated, label: Updated, widget: date }
