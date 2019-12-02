@@ -23,3 +23,5 @@ First, our people are not skilled enough, thanks to archaic and utterly pointles
 Second, policy changes and passing of bills take way too long. That's a result of the democratic process and I respect that, but again, people don't stay young forever. There are a lot of policies and rules that need an overhaul and the sooner we change them, the faster we can grow.  
 
 [More Info](https://www.moneycontrol.com/news/business/economy/5-trillion-economy-distant-dream-india-slips-to-7th-spot-in-global-gdp-ranking-4281691.html)
+
+<meta name="image" property="og:image" content="[assets/modi.jpg]">
