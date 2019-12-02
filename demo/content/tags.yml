@@ -22,4 +22,19 @@
   color: #f0db4f
   icon: ./assets/images/logo.png
   featured: true
-  
+- name: General
+  color: #f0db4f
+  icon: ./assets/images/logo.png
+  featured: true
+- name: Idea
+  color: #f0db4f
+  icon: ./assets/images/logo.png
+  featured: true
+- name: Stories
+  color: #f0db4f
+  icon: ./assets/images/logo.png
+  featured: true
+- name: Cyber Security
+  color: #f0db4f
+  icon: ./assets/images/logo.png
+  featured: true
