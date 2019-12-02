@@ -10,7 +10,6 @@ media_folder: "demo/content/posts/blog/assets"
     folder: "demo/content/posts/blog"
     create: true
     slug: "{{slug}}"
-    preview_path: "{{permalink}}"
     editor:
       preview: false
     
