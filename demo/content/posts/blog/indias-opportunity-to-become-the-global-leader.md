@@ -6,7 +6,7 @@ tags:
   - ''
 image: /assets/modi.jpg
 featuredImage: ./assets/modi.jpg
-exert: >-
+excert: >-
   We have the largest workforce in the world - close to 500 million strong -
   more than the population of every major country except China.
 created: 2019-12-02T12:45:11.990Z
