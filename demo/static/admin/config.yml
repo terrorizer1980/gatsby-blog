@@ -2,8 +2,7 @@ backend:
   name: git-gateway
   repo: master
   identity_url: "https://blog.leewardslope.com/.netlify/identity"
-   gateway_url: "https://blog.leewardslope.com/.netlify/git"
-   squash_merges: true
+  squash_merges: true
    
 publish_mode: editorial_workflow
 media_folder: "demo/content/posts/blog/assets"
