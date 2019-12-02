@@ -17,8 +17,8 @@ collections:
       - { name: title, label: Title, widget: string }
       - { name: path, label: Path }
       - { name: tags, label: Tags, Widget: list }
-      - { name: image, label: Featured Image, widget: image }
-      - { name: featuredImage, label: Image Location, widget: string }
+      - { name: image, label: Featured Image, widget: string }
+      - { name: featuredImage, label: Image Location, widget: image }
       - { name: exert, label: Exert, widget: string }
       - { name: created, label: Created, widget: date }
       - { name: updated, label: Updated, widget: date }
