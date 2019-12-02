@@ -46,7 +46,7 @@ module.exports = (themeOptions) => {
       search: true,
       author: {
         name: `Akhil Naidu`,
-        description: `I'm <strong>Akhil</strong>, the guy behind 
+        description: `I'm <strong>Akhil Naidu</strong>, the guy behind the
         <a href="https://blog.leewardslope.com" rel="noopener" target="_blank">leewardslope</a>. - a blog about software development,           technology and all that kind of geeky stuff.`,
         social: {
           facebook: ``,
