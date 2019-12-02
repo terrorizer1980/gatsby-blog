@@ -15,7 +15,7 @@ module.exports = {
       resolve: `@nehalist/gatsby-theme-nehalem`,
       options: { // optional theme options
         // location to our content
-        contentPath: `./content`,
+        contentPath: `demo/content`,
         // the page manifest
         manifest: {
           name: `nehalem - A Gatsby theme`,
