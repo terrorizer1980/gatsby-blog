@@ -37,15 +37,9 @@ Some of them are very much familiar with smartphone, WhatsApp, YouTube, and othe
 
 They choose their transaction platform themselves for a transaction, here are some comments by them after a few trails.
 
-* ```
-  How do I enter the time?
-  ```
-* ```
-  I got confused about what sort of recharge to make, and for whose phone.
-  ```
-* ```
-  How can I tell which seat is reserved and which is free?
-  ```
+* How do I enter the time?
+* I got confused about what sort of recharge to make, and for whose phone.
+* How can I tell which seat is reserved and which is free?
 * There are too many options, mobile prepaid a mobile postpaid... so ... I go for prepaid?
 
 None of them could complete the transaction!! It seemed too difficult, but what if making online transaction becomes as easy as watching videos? Jiny helped them to assist using its Assistive User Interface, it successfully guided each individual a successful transaction even though it took considerable time than usually.
