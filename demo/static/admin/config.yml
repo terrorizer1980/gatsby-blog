@@ -1,30 +1,28 @@
 backend:
   name: git-gateway
-  repo: akhil-naidu/gatsby-theme-nehalem
-
-media_folder: demo/content/posts/blog/assets
-
-
-collections:
+  repo: master
+  identity_url: "https://blog.leewardslope.com/.netlify/identity"
+   gateway_url: "https://blog.leewardslope.com/.netlify/git"
+   squash_merges: true
+   
+publish_mode: editorial_workflow
+media_folder: "demo/content/posts/blog/assets"
+      
   - name: blog
     label: Blog
     folder: "demo/content/posts/blog"
     create: true
     slug: "{{slug}}"
+    preview_path: "{{permalink}}"
+    editor:
+      preview: false
     
     fields:
       - { name: title, label: Title, widget: string }
       - { name: path, label: Path }
       - { name: tags, label: Tags, widget: list }
-      - name: featuredImage
-        label: Featured image
-        widget: object
-        fields:
-          - {name: src, label: Image, widget: image}
-          - {name: alt, label: Alt text, widget: string}
-          - {name: title, label: Title, widget: string}
       - { name: Image, label: Featured Image, widget: image }
-      - { name: eaturedImage, label: Image Location, widget: string }
+      - { name: featuredImage, label: Image Location, widget: string }
       - { name: excerpt, label: Excerpt, widget: string }
       - { name: created, label: Created, widget: date }
       - { name: updated, label: Updated, widget: date }
