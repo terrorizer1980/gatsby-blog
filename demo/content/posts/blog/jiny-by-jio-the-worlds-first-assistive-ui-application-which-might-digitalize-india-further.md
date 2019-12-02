@@ -25,13 +25,13 @@ In normal GUIs (Graphical UIs), the interaction of the user with the system (app
 
 ![Jiny](/assets/jiny.png "UI Differences")
 
-### Introducing "Jiny" - World's First Assistive UI Platform
+## Introducing "Jiny" - World's First Assistive UI Platform
 
 A first-of-its-kind assistant who/which can speak in users native language, guide them live on the app screen, and help them easily do complex tasks like making online payments. Jiny integrates with digital businesses to accelerate their app transactions and adoption in vernacular Bharat.
 
 Vernacular Bharat - "Going Local", Bharat is lagging in the internet age. So researchers invited users from Bharat to understand why? For this research, they invited people of different occupations, age, gender, experience with smartphone and places.
 
-### What is the research and the smartphone knowledge of the participants?
+## What is the research and the smartphone knowledge of the participants?
 
 Some of them are very much familiar with smartphone, WhatsApp, YouTube, and other apps. While some are completely new to the smartphone and some never done any online transaction thinking about its authenticity. Few of them commented that the newer generation understand everything quickly, and for them it takes times. One of them completely dependent on children while few are dependent on the trusted shopkeeper for their mobile recharge. All of them are familiar with smartphones and using them. `They are asked to try to make an online transaction.`
 
@@ -44,7 +44,7 @@ They choose their transaction platform themselves for a transaction, here are so
 
 None of them could complete the transaction!! It seemed too difficult, but what if making online transaction becomes as easy as watching videos? Jiny helped them to assist using its Assistive User Interface, it successfully guided each individual a successful transaction even though it took considerable time than usually.
 
-### Comments after a successful transaction using Jiny
+## Comments after a successful transaction using Jiny
 
 * This is the first time I've seen something like this.
 * Because it kept telling me what to do, I knew I was on the right track.
@@ -58,7 +58,7 @@ It took considerable time to do a transaction than usual, but it's progress and 
 
 I feel like, "This app can change the way my parents and neighborhood use a smartphone". What do you think? Comment below
 
-### More Info on Jiny
+## More Info on Jiny
 
 [Official Website of Jiny](https://jiny.io/launch)
 
