@@ -29,7 +29,7 @@ const Footer: FunctionComponent<FooterProps> = ({menu, owner}) => (
           <strong>{owner}</strong>&nbsp;&copy; {new Date().getFullYear()}
         </Copyright>
         <DesignBy>
-          Theme by <a href={`https://nehalist.io`} target={`_blank`} rel={`noopener`}>nehalist.io</a>
+          Work by <a href={`https://blog.leewardslope.com/author/akhil`} target={`_blank`} rel={`noopener`}>Akhil Naidu</a>
         </DesignBy>
       </div>
     </FooterContainer>
