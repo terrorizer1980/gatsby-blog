@@ -29,8 +29,16 @@ module.exports = (themeOptions) => {
           path: '/'
         },
         {
+          name: 'All Posts',
+          path: '/archive'
+        },
+        {
           name: 'About',
-          path: '/page'
+          path: '/about'
+        },
+        {
+          name: 'Contact',
+          path: '/contact'
         },
       ],
       footerMenu: [
