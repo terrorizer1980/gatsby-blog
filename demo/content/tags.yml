@@ -1,18 +1,18 @@
 - name: Programming
   color: "#007acc"
-  icon: ./assets/images/typescript.svg
+  icon: ./assets/images/programming.svg
   featured: true
 - name: Theme
   color: #00ffee
-  icon: ./assets/images/logo.png
+  icon: ./assets/images/theme.svg
   featured: true
 - name: Demo
   color: #f0db4f
-  icon: ./assets/images/javascript.svg
+  icon: ./assets/images/demo.svg
   featured: true
 - name: Getting Started
   color: #f0db4f
-  icon: ./assets/images/Getting-started.svg
+  icon: ./assets/images/getting-started.svg
   featured: true
 - name: Thoughts
   color: #f0db4f
@@ -20,15 +20,15 @@
   featured: true
 - name: The Internet
   color: #f0db4f
-  icon: ./assets/images/logo.png
+  icon: ./assets/images/internet.svg
   featured: true
 - name: General
   color: #f0db4f
-  icon: ./assets/images/logo.png
+  icon: ./assets/images/general.svg
   featured: true
 - name: Idea
   color: #f0db4f
-  icon: ./assets/images/idea.svg
+  icon: ./assets/images/ideas.svg
   featured: true
 - name: Stories
   color: #f0db4f
