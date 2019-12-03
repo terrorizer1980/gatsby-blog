@@ -52,12 +52,12 @@ module.exports = {
 */
 
 const path = require(`path`)
-const config = require(`./src/utils/siteConfig`)
+const config = require(`theme/src/utils/siteConfig`)
 
 let ghostConfig
 
 try {
-    ghostConfig = require(`./.ghost`)
+    ghostConfig = require(`.demo/.ghost`)
 } catch (e) {
     ghostConfig = {
         production: {
