@@ -88,7 +88,7 @@ const PostsPage: FunctionComponent<PostsPageProps> = ({ pathContext, location })
             <Card
               title={post.frontmatter.title}
               path={post.frontmatter.path}
-              featuredImage={post.frontmatter.featuredImage ? post.frontmatter.featuredImage.childImageSharp : null}
+              featuredImage={post.frontmatter.featuredImage ? post.frontmatter.metaImage.childImageSharp : null}
               content={post.frontmatter.excerpt}
               key={index}
               meta={
