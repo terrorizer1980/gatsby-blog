@@ -3,7 +3,7 @@ title: Story of Article 370 of the constitution of India.
 path: /story-of-article-370-of-the-constitution-of-india
 tags:
   - Thoughts
-image: /assets/article-370.jpg
+metaImage: /assets/article-370.jpg
 featuredImage: ./assets/article-370.jpg
 excerpt: >-
   Maharaja Hari Singh, who was the King of J&K. Initially he did not want to
@@ -49,6 +49,8 @@ Many claims that the article is gender-biased as it gives more benefits to men, 
 * Settlement in the State.
 * Right to scholarship and such other forms of aid as the state government may provide.
 
+---
+
 _Source by_ [_@Tanmay Pant_](https://www.quora.com/profile/Tanmay-Pant-5)_, B.sc.( honours) Geology, Hansraj College, University of Delhi (2019)._
 
-##
+
