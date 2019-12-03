@@ -53,9 +53,6 @@ module.exports = {
 
 const path = require(`path`)
 
-
-const generateRSSFeed = require(`./src/utils/rss/generate-feed`)
-
 let ghostConfig
 
 try {
