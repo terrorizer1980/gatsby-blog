@@ -4,7 +4,7 @@ path: indias-opportunity-to-become-the-global-leader
 tags:
   - Thoughts
   - ''
-image: /assets/modi.jpg
+metaImage: /assets/modi.jpg
 featuredImage: ./assets/modi.jpg
 excerpt: >-
   We have the largest workforce in the world - close to 500 million strong -
@@ -24,5 +24,5 @@ Second, policy changes and passing of bills take way too long. That's a result o
 
 [More Info](https://www.moneycontrol.com/news/business/economy/5-trillion-economy-distant-dream-india-slips-to-7th-spot-in-global-gdp-ranking-4281691.html)
 
-<meta property="og:image" content="https://blog.leewardslope.com/static/899a0757abb2671f22bdf9a8b38c0d44/57238/modi.jpg"/>
+
 
