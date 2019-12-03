@@ -1,5 +1,5 @@
 ---
-title: about page
+title: About
 path: "/about"
 excerpt: A aboute page.
 ---
@@ -14,4 +14,3 @@ excerpt: A aboute page.
 
 ### Page Under Construction
 
-#### check
