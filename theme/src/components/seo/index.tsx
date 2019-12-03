@@ -83,6 +83,14 @@ const SEO: FunctionComponent<SEOProps> = ({
           content: canonical,
         },
         {
+          name: `og:image`,
+          content: metaImage,
+        },
+        {
+          name: `og:author`,
+          content: metadata.author.name,
+        },
+        {
           name: `twitter:label1`,
           content: `Written by`,
         },
