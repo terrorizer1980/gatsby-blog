@@ -16,7 +16,7 @@
   featured: true
 - name: Thoughts
   color: #f0db4f
-  icon: ./assets/images/thoughts.png
+  icon: ./assets/images/thoughts.svg
   featured: true
 - name: The Internet
   color: #f0db4f
