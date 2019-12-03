@@ -83,7 +83,8 @@ const SEO: FunctionComponent<SEOProps> = ({
           content: canonical,
         },
         {
-          name: `og:image`,
+          name: `image`,
+          property: `og:image`,
           content: metaImage,
         },
         {
