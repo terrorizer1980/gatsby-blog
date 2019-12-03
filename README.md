@@ -1,4 +1,4 @@
-# Nehalem Gatsby Theme
+# Leewardslope Gatsby Project
 
 ![Travis (.org)](https://img.shields.io/travis/nehalist/gatsby-theme-nehalem)
 
@@ -6,9 +6,9 @@
     <img src="https://github.com/nehalist/gatsby-theme-nehalem/blob/master/theme/logo.png?raw=true">
 </p>
 
-> Check the [Demo](https://nehalem.netlify.com)!
+> Check the [Demo](https://blog.leewardslope.com)!
 
-**Nehalem** is a Gatsby theme for blogging.
+**Leewardslope** is a Gatsby project for blogging.
 
 ## Features
 
@@ -26,14 +26,10 @@ Out-of-the-box:
 - Theming
 - Customizable
 
-See [here](https://nehalem.netlify.com/features) for details!
+See [here](https://blog.leewardslope.com/features) for details!
 
 ## Installation
 
-> See [this repo](https://github.com/nehalist/gatsby-starter-nehalem) for a quick start!
-
-This is the mono repo containing the demo __and__ the theme. Check the [theme-specific README](theme/README.md) for further 
-details on the theme.
 
 In case you want to work with this mono repo (for local development, pull requests, etc.):
 
@@ -45,15 +41,6 @@ In case you want to work with this mono repo (for local development, pull reques
 
 ## Documentation
 
-The entire documentation can be found on the [Demo](https://nehalem.netlify.com). Alternatively check 
-the [GitHub repository](https://github.com/nehalist/gatsby-theme-nehalem).
+The entire documentation can be found on the [Demo](https://blog.leewardslope.com). Alternatively check 
+the [GitHub repository](https://github.com/akhil-naidu/gatsby-theme-nehalem).
 
-## Like the theme?
-
-Happy to hear that! Feel free to star it on [GitHub](https://github.com/nehalist/gatsby-theme-nehalem)!
-
-## Author
-
-Developed by [nehalist.io](https://nehalist.io).
-
-*Big thanks to my SO for the awesome logo!*
