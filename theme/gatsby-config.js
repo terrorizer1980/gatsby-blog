@@ -1,7 +1,7 @@
 const path = require(`path`)
 
 const config = require(`./src/utils/siteConfig`)
-const generateRSSFeed = require(`./src/utils/rss/generate-feed`)
+
 
 let ghostConfig
 
