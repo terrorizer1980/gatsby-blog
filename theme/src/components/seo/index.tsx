@@ -88,7 +88,7 @@ const SEO: FunctionComponent<SEOProps> = ({
           content: metaImage,
         },
         {
-          name: `og:author`,
+          name: `author`,
           content: metadata.author.name,
         },
         {
