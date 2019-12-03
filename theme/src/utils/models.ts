@@ -49,7 +49,7 @@ export interface Post {
     createdPretty: string;
     updated: string;
     updatedPretty: string;
-    featuredImage: any;
+    featuredImage?: any;
     metaImage: any;
   };
   html: string;
