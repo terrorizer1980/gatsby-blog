@@ -36,10 +36,6 @@ module.exports = (themeOptions) => {
           name: 'About',
           path: '/about'
         },
-        {
-          name: 'Contact',
-          path: '/contact'
-        },
       ],
       footerMenu: [
         {
@@ -57,7 +53,7 @@ module.exports = (themeOptions) => {
         description: `I'm <strong>Akhil Naidu</strong>, the guy behind the
         <a href="https://blog.leewardslope.com" rel="noopener" target="_blank">leewardslope</a>. - a blog about software development,           technology and all that kind of geeky stuff.`,
         social: {
-          facebook: ``,
+          facebook: `https://www.facebook.com/kaparapu.akhilnaidu`,
           twitter: `https://twitter.com/_kanaidu`,
           linkedin: `https://www.linkedin.com/in/kaparapuakhilnaidu/`,
           instagram: ``,
