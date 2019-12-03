@@ -3,7 +3,7 @@ title: Important abbreviations used by hackers.
 path: /abbreviations
 tags:
   - Cyber Security
-image: /assets/abbreviations.jpg
+metaImage: /assets/abbreviations.jpg
 featuredImage: ./assets/abbreviations.jpg
 excerpt: >-
   Below are some frequently used abbreviations and acronyms that all hackers
