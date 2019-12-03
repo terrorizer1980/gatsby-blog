@@ -30,9 +30,9 @@ module.exports = {
         //ghost
         resolve: `gatsby-source-ghost`,
         options: {
-         apiUrl: `https://ghost.leewardslope.com`,
-         contentApiKey: `27b66b3c82399fe197ea8386ee`,
-        version: `v3` // Ghost API version, optional, defaults to "v3".
+          apiUrl: `https://ghost.leewardslope.com`,
+          contentApiKey: `27b66b3c82399fe197ea8386ee`,
+          version: `v3` // Ghost API version, optional, defaults to "v3".
                      // Pass in "v2" if your Ghost install is not on 3.0 yet!!!
         },
         
