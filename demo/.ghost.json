@@ -1,0 +1,10 @@
+{
+  "development": {
+    "apiUrl": "https://ghost.leewardslope.com",
+    "contentApiKey": "27b66b3c82399fe197ea8386ee"
+  },
+  "production": {
+    "apiUrl": "https://ghost.leewardslope.com",
+    "contentApiKey": "27b66b3c82399fe197ea8386ee"
+  }
+}
