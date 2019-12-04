@@ -13,7 +13,6 @@ excerpt: >-
 created: 2019-12-04T12:26:10.588Z
 updated: 2019-12-04T12:26:10.644Z
 ---
-* 
 * A Kenyan farmer stands proudly, looking at his crops while talking on his mobile.
 * A group of Bangladeshi women cluster around a phone to get some health information. 
 * Children in an Indian slum look absorbed as they navigate their way through an educational gaming app.
