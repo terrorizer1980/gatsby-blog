@@ -46,7 +46,9 @@ You can host almost any open source projects on your own, if you have the requir
 * It only cost 5$ per Month
 * Full Control of your blog and VPS
 
-In Fact, you will not able to find many difference between Ghost(pro) and Self-Hosted ghost. In minute here are the differences:
+In Fact, you will not be able to find many difference between Ghost(pro) and Self-Hosted ghost. 
+
+Here are few differences that matters most among a tiny list:
 
 1. No official and personal support from Ghost org.
 2. No CDN and Caching. 
