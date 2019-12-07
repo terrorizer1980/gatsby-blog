@@ -24,7 +24,6 @@ collections:
       - { name: updated, label: Updated, widget: date }
       - { name: body, label: Body, widget: markdown }
 
-collections:
   - name: page
     label: Page
     folder: "demo/content/pages"
