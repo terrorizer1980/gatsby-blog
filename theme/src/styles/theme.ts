@@ -4,7 +4,7 @@ const Theme: DefaultTheme = {
   layout: {
     backgroundColor: `#fafafa`,
     primaryColor: `#455a64`,
-    linkColor: `#455a64`,
+    linkColor: `#ff5733`,
   },
   breakpoints: {
     xs: `425px`,
@@ -23,7 +23,7 @@ const Theme: DefaultTheme = {
     },
     header: {
       height: `440px`,
-      background: `linear-gradient(-45deg, #455a64, #eceff1) repeat scroll 0 0 transparent`,
+      background: `linear-gradient(-45deg, #303f97, #9fa8da) repeat scroll 0 0 transparent`,
     },
   },
 };
