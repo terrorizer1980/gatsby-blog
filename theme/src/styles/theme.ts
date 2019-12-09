@@ -2,7 +2,7 @@ import {DefaultTheme} from "./default-theme";
 
 const Theme: DefaultTheme = {
   layout: {
-    backgroundColor: `#ff5733`,
+    backgroundColor: `#fafafa`,
     primaryColor: `#ff5733`,
     linkColor: `#ff5733`,
   },
@@ -23,7 +23,7 @@ const Theme: DefaultTheme = {
     },
     header: {
       height: `440px`,
-      background: `linear-gradient(145deg, #303f97, #9fa8da) repeat scroll 0 0 transparent`,
+      background: `linear-gradient(145deg, #37474f, #607d8b) repeat scroll 0 0 transparent`,
     },
   },
 };
