@@ -3,8 +3,8 @@ import {DefaultTheme} from "./default-theme";
 const Theme: DefaultTheme = {
   layout: {
     backgroundColor: `#fafafa`,
-    primaryColor: `#d3ffe8`,
-    linkColor: `#d3ffe8`,
+    primaryColor: `#303030`,
+    linkColor: `#303030`,
   },
   breakpoints: {
     xs: `425px`,
