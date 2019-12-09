@@ -34,19 +34,10 @@ const DownloadButton = styled.a`
 const SidebarContent: FunctionComponent = () => {
   return (
     <StickySidebarContent>
- <!--     <AdStyle />
-      <Carbon name={`carbon-home`} placement={`nehalemnetlifycom`} serve={`CE7D453J`} /> -->
+
 
       <Bio textAlign={`justify`} avatarStyle={{float: `left`, marginRight: `10px`}}/>
 
-    <!--  <DownloadButton
-        href={`https://github.com/akhil-naidu/gatsby-theme-nehalem`}
-        target={`_blank`}
-        rel={`noopener`}
-        aria-label={`Check This Project`}
-      >
-        Check This Project &#129321;
-      </DownloadButton>  -->
 
     </StickySidebarContent>
   );
