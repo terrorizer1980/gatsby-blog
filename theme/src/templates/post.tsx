@@ -13,7 +13,6 @@ import Bio from "../components/bio";
 import Comments from "../components/comments";
 import SEO from "../components/seo";
 import {FaAlignJustify, FaTimes} from "react-icons/fa";
-import ReactDisqusComments from "react-disqus-comments";
 
 interface PostTemplateProps {
   data: {
@@ -303,13 +302,6 @@ const PostTemplate: FunctionComponent<PostTemplateProps> = ({data, location}) =>
         </PostAdditionContent>
       </PostAddition>
       <Comments/>
-      <ReactDisqusComments
-         shortname="leewardslope"
-         identifier={post.id}
-         title={post.title}
-         url={post.url}
-         category_id={post.category_id}
-      />
     </Layout>
   );
 };
