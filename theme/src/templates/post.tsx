@@ -296,9 +296,10 @@ const PostTemplate: FunctionComponent<PostTemplateProps> = ({data, location}) =>
               }
             </PostFooter>
           </article>
+          <Comments/>
         </PostContent>
       </PostContainer>
-      <Comments/>
+      
       <PostAddition>
         <PostAdditionContent>
           <BioWrapper>
