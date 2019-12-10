@@ -37,6 +37,14 @@ module.exports = {
                      // Pass in "v2" if your Ghost install is not on 3.0 yet!!!
         },
         
+        
+        
+          resolve: `gatsby-plugin-disqus`,
+          options: {
+          shortname: `leewardslope`
+        },
+    
+        
         //ghost
         loadDefaultPages: true,
         // posts shown on the front page
