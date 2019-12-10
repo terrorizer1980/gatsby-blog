@@ -13,6 +13,8 @@ import Bio from "../components/bio";
 import Comments from "../components/comments";
 import SEO from "../components/seo";
 import {FaAlignJustify, FaTimes} from "react-icons/fa";
+import { DiscussionEmbed } from 'disqus-react';
+
 
 interface PostTemplateProps {
   data: {
@@ -22,7 +24,15 @@ interface PostTemplateProps {
   location: Location;
 }
 
-const PostContainer = styled(Container)`
+
+
+  const disqusShortname = "leewardslope";
+  const disqusConfig = {
+    identifier: post.id,
+    title: post.frontmatter.title,
+  };
+
+  const PostContainer = styled(Container)`
   display: flex;
   justify-content: center;
   padding: 0 !important;
@@ -302,6 +312,7 @@ const PostTemplate: FunctionComponent<PostTemplateProps> = ({data, location}) =>
         </PostAdditionContent>
       </PostAddition>
       <Comments/>
+      <DiscussionEmbed shortname={disqusShortname} config={disqusConfig} />
     </Layout>
   );
 };
