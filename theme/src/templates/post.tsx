@@ -297,8 +297,7 @@ const PostTemplate: FunctionComponent<PostTemplateProps> = ({data, location}) =>
             </PostFooter>
           </article>
           <Comments/>
-        </PostContent>
-        
+        </PostContent> 
       </PostContainer>
       
       <PostAddition>
@@ -308,7 +307,7 @@ const PostTemplate: FunctionComponent<PostTemplateProps> = ({data, location}) =>
           </BioWrapper>
         </PostAdditionContent>
       </PostAddition>
-      
+      <Comments/>
       
     </Layout>
   );
