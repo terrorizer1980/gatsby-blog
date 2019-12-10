@@ -7,6 +7,7 @@ import {Container} from "../components/common";
 import styled from "styled-components";
 import PageSidebarContent from "../components/page-sidebar-content";
 import SEO from "../components/seo";
+import {CodeWave} from "gatsby-theme-waves";
 
 interface PageTemplateProps {
   pathContext: {
