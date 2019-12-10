@@ -5,7 +5,8 @@ import ReactDisqusComments from 'react-disqus-comments';
  * Placeholder which is attached under every post. Can be shadowed to
  * quickly integrate comments (like commento, Disqus, ...).
  */
-const Comments: FunctionComponent = () => <> </>;
+const Comments: FunctionComponent = () => <div id="commento"></div>
+<script src="https://cdn.commento.io/js/commento.js"></script>;
 
 export default Comments;
 
