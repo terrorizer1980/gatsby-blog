@@ -19,11 +19,11 @@ module.exports = {
         contentPath: `content`,
         // the page manifest
         manifest: {
-          name: `nehalem - A Gatsby theme`,
-          short_name: `nehalem`,
+          name: `Leewardslope - A Gatsby Project`,
+          short_name: `leewardslope`,
           start_url: `/`,
-          background_color: `#a4cbb8`,
-          theme_color: `#a4cbb8`,
+          background_color: `#607d8b`,
+          theme_color: `#607d8b`,
           display: `minimal-ui`,
           
         },
