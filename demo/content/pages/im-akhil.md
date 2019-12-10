@@ -4,9 +4,6 @@ path: /author/akhil
 excerpt: I'm Akhil Naidu Kaparapu
 ---
 
-import { CodeWave } from "gatsby-theme-waves"
-
----
 
 Lorem ipsum dolor sit amet, fugit errem volumus ex sit, magna fugit deserunt et qui. Sapientem mnesarchum ei vis, offendit appetere inimicus eu has. Te utamur voluptua per. Per dicant intellegebat in. Laboramus referrentur id his, electram philosophia sit an. Possim efficiendi no sea, eu admodum copiosae indoctum mea.
 
