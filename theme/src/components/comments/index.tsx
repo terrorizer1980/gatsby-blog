@@ -23,7 +23,7 @@ export default class Comments extends React.Component {
                 <Helmet>
                     <script 
                         defer 
-                        src="https://commento.leewardslope.com/js/commento.js"
+                        src="https://cdn.commento.io/js/commento.js"
                         />
                 </Helmet>
             </React.Fragment>
