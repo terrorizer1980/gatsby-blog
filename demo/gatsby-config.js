@@ -10,7 +10,6 @@
  */
 const path = require(`path`)
 
-const config = require(`./src/utils/siteConfig`)
 
 
 let ghostConfig
