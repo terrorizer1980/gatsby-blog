@@ -29,9 +29,9 @@ Here’s a quick description of the setup and installation process. For an easie
 1. Update your Windows 10 machine. 
 2. Open an administrative PowerShell window and install the Windows Subsystem with this one-liner. A reboot will be required once finished.
 
-   ````markdown
-   Enable-WindowsOptionalFeature-Online-FeatureNameMicrosoft-Windows-Subsystem-Linux```
-   ````
+   ```markdown
+   Enable-WindowsOptionalFeature-Online-FeatureNameMicrosoft-Windows-Subsystem-Linux
+   ```
 3. Once rebooted, open the Windows App store and search for the “Linux” application, or alternatively [click here](https://www.microsoft.com/en-us/search?q=linux) to go there directly. Install the app and enjoy your specified linux distribution (Kali, Ubuntu, Debain)!
 
 ## Steps common for every linux distribution
