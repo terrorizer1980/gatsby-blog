@@ -1,7 +1,7 @@
 ---
 title: >-
   How to install Linux (Ubuntu or Kali) in Windows-10 without Dual Boot,
-  Virtualbox, VMware.
+  Virtualbox, VMware using WSL
 path: /wsl
 tags:
   - The Internet
