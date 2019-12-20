@@ -14,7 +14,7 @@ excerpt: >-
 created: 2019-12-20T01:43:20.350Z
 updated: 2019-12-20T01:43:20.445Z
 ---
-In this tutorial, we’ll be installing Linux on our Windows machine, by using the WSL feature(no VM or dual booting required). WSL(Windows subsystem for Linux) is a Windows 10 feature that provides you with a Bash shell, which you can use to execute Linux commands and run Linux applications.
+In this tutorial, we’ll be installing Linux on our Windows machine, by using the WSL feature(no VM or dual booting required). WSL(**Windows Subsystem for Linux**) is a Windows 10 feature that provides you with a Bash shell, which you can use to execute Linux commands and run Linux applications.
 
 ## Linux on ... Windows? Really?
 
@@ -29,7 +29,9 @@ Here’s a quick description of the setup and installation process. For an easie
 1. Update your Windows 10 machine. 
 2. Open an administrative PowerShell window and install the Windows Subsystem with this one-liner. A reboot will be required once finished.
 
-   `Enable-WindowsOptionalFeature-Online-FeatureNameMicrosoft-Windows-Subsystem-Linux`
+   ````markdown
+   Enable-WindowsOptionalFeature-Online-FeatureNameMicrosoft-Windows-Subsystem-Linux```
+   ````
 3. Once rebooted, open the Windows App store and search for the “Linux” application, or alternatively [click here](https://www.microsoft.com/en-us/search?q=linux) to go there directly. Install the app and enjoy your specified linux distribution (Kali, Ubuntu, Debain)!
 
 ## Steps common for every linux distribution
@@ -83,7 +85,7 @@ Sudo is used to give root permissions to non-root users. That is also why I was 
 
 Unfortunately, Windows Defender doesn't always like to play nice with the tools in the Kali repository. Sometimes, it detects them as viruses and/or malware and blocks some portion of the program. To prevent these errors, it's a good idea to go ahead and add a Windows Defender exclusion for the Kali Linux folder.
 
-First, find that folder by opening File Explorer and entering the following location in the address bar. **C:\Users\"Windows User"\AppData\Local\Packages\**
+First, find that folder by opening File Explorer and entering the following location in the address bar. \*\*C:\Users"Windows User"\AppData\Local\Packages\*\*
 
 > Don't forget to replace Windows User" with your actual username!
 
@@ -99,7 +101,7 @@ Next, click on the cog in the bottom, then ***manage setting*** under"**Virus & 
 
 ![add-exclusion](/assets/add-exclusion.png "adding exclusion in windows security")
 
-If you ever want to remove this exclusion, simply click on the down arrow beside the folder location, and click "Remove."
+If you ever want to remove this exclusion, simply click on the down arrow beside the folder location, and click "**Remove**."
 
 With the Windows Defender exclusion in place, you're ready to get started with your ethical hacking. Not much comes preinstalled in this version, so install tools you wish to use from the Kali repository as you normally would with the **apt-get** command. Click here for detailed tutorial for installing all kali linux tools.
 
