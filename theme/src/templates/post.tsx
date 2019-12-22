@@ -296,22 +296,17 @@ const PostTemplate: FunctionComponent<PostTemplateProps> = ({data, location}) =>
               }
             </PostFooter>
           </article>
-          
         </PostContent> 
       </PostContainer>
-      
       <PostAddition>
         <PostAdditionContent>
           <BioWrapper>
             <Bio textAlign={`center`} showName={true}/>
           </BioWrapper>
         </PostAdditionContent>
-        <Comments/>
       </PostAddition>
-      
-      
-    </Layout>
-    
+      <Comments/>
+    </Layout>  
   );
 };
 
