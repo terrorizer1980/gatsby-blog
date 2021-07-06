@@ -14,9 +14,9 @@
   "dependencies": {
     "@nehalist/gatsby-theme-nehalem": "*",
     "gatsby": "^2.13.1",
-    "react": "^16.8.6",
+    "react": "^16.14.0",
     "react-carbon": "^1.0.7",
-    "react-dom": "^16.8.6"
+    "react-dom": "^16.14.0"
   },
   "devDependencies": {
     "prettier": "^1.18.2"
